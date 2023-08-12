@@ -1,13 +1,3 @@
 # Site---Listou-comprou
 
-1º - Quando na página principal eu clico na barra de pesquisa mesmo sem o usuário moderador logado ele leva para a área de pesquisa que permite excluir e atualizar os produtos - Somente usuários moderados podem ter esse acesso.
-
-2º - O filtro do HORTIFRUTI não está funcionando na página principal.
-
-3º - Se utilizar algum dos filtros no carrinho e clicar em gerar PDF o PDF vem vazio.
-
-4º - As imagens da lista do PDF estão sendo cortadas.
-
-5º - O PDF gerado após ser salvo no computador da erro na hora de abrir
-
-6º - Após efetuar qualquer pesquisa na barra de pesquisa os botões de filtro param de funcionar.
+O segmento escolhido para a elaboração do projeto será o de Comércio eletrônico. Tenho o objetivo de desenvolver uma aplicação Web (website) com finalidade para geração de lista de compras de mercado ao qual os usuários cadastrados escolherão os produtos já cadastrados assim formando sua lista de compras. No final o sistema irá gerar uma lista com os produtos, sugerindo até três opções diferentes de mercados e seus respectivos preços, sempre das opções mais baratas para as mais caras. O website terá o objetivo de resolver o problema de o usuário pagar mais caro em um mesmo produto pois ele irá sempre no mercado com o preço mais barato, para isso terá que pagar uma taxa mensal para atualização e manutenção do sistema. 
